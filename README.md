@@ -1,8 +1,8 @@
-# Concordia Institute for Information Systems Engineering (CIISE)
-# INSE 6180: Security and Privacy Implications of Data Mining
-# Winter 2024
-# Project Report on:
-## Application of Federated Learning Techniques in Document Recognition
+## Concordia Institute for Information Systems Engineering (CIISE)
+## INSE 6180: Security and Privacy Implications of Data Mining
+### Winter 2024
+## Project Report on:
+### Application of Federated Learning Techniques in Document Recognition
 
 # Abstract
 Federated Learning (FL) has emerged as a potential paradigm for collaborative model training
